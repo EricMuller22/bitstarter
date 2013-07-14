@@ -13,3 +13,4 @@ results
 
 npm-debug.log
 node_modules
+# for now, though this is worth keeping in mind: http://www.futurealoof.com/posts/nodemodules-in-git.html
